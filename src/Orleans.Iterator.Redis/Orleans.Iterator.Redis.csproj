@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>8.1.0.1</Version>
+    <Version>10.0.1</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Orleans.Iterator.AdoNet</Title>
     <Authors>Bernhard Pollerspöck</Authors>
@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Orleans.Sdk" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Orleans.Sdk" Version="10.0.1" />
     <PackageReference Include="StackExchange.Redis" Version="2.8.0" />
   </ItemGroup>
 
